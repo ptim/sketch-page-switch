@@ -38,7 +38,7 @@ To edit the shortcuts, change the keys inside comment on the first line of each 
 
 Switch Page's options are available via the plugin menu `Plugins > Switch Page > …` or with the following shortcuts:
 
-* `cmd + l` will go to the next page
-* `cmd + k` will go to the previous page
-* `cmd + '` will prompt to select a page
-* `cmd + p` will create a new page
+- <kbd>cmd + ]</kbd> - navigate to the next page
+- <kbd>cmd + [</kbd> - navigate to the previous page
+- <kbd>cmd + \\</kbd> - navigate to a page selected from a drop down list
+- <kbd>cmd + shift + n</kbd> - create a new page

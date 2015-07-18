@@ -1,4 +1,4 @@
-// Create new page (cmd p)
+// New Page (cmd shift n)
 
 var current_page = [doc currentPage]
 var new_page = [MSPage new]
