@@ -6,7 +6,7 @@ This is a fork of the super useful Sketch Page Switch to suit my own preferences
 
 ## Installation
 
-As with any Sketch plugin, you can install many ways. In each case, you'll need to restart sketch to use new plugins.
+As with any Sketch plugin, you can install many ways.
 
 ### With Sketch Toolbox...
 
