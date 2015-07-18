@@ -14,7 +14,6 @@ Arguably the simplest option, this method will keep plugins it installs up to da
 
 - install and open Sketch Toolbox
 - search for 'page switch'
-- 
 
 ### The old fashioned, zip file method...
 
