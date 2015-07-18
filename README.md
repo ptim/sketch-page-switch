@@ -42,3 +42,4 @@ Switch Page's options are available via the plugin menu `Plugins > Switch Page >
 - <kbd>cmd + [</kbd> - navigate to the previous page
 - <kbd>cmd + \\</kbd> - navigate to a page selected from a drop down list
 - <kbd>cmd + shift + n</kbd> - create a new page
+- <kbd>cmd + shift + d</kbd> - duplicate the current page

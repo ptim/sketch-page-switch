@@ -1,0 +1,15 @@
+// Duplicate Page (cmd shift d)
+
+// http://bohemiancoding.com/sketch/support/developer/03-reference/MSPage.html
+
+var doc = context.document
+var page = [doc currentPage]
+var defaultName = [page name] + " copy"
+var newPage = [page copy]
+
+var pageName = [doc askForUserInput:"Page name:" initialValue:defaultName]
+if (pageName) {
+	newPage.setName(pageName)
+	[[doc documentData] addPage:newPage]
+	[doc setCurrentPage:newPage]
+}
